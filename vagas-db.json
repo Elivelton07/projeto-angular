@@ -1,0 +1,28 @@
+{
+    "vagas": [
+    {
+        "id": 1,
+        "nome": "Desenvolver Front end",
+        "foto": "foto 1.jpg",
+        "descricao": "Trabalhar com HTML e CSS",
+        "salario": 5000
+    },
+
+    {
+        "id": 2,
+        "nome": "Desenvolver Back end",
+        "foto": "foto 2.jpg",
+        "descricao": "Spring Boot",
+        "salario": 7000
+    },
+
+    {
+        "id": 3,
+        "nome": "Desenvolver Full stack",
+        "foto": "foto 3.jpg",
+        "descricao": "Trabalhar Angular e Spring",
+        "salario": 10000
+    }
+
+    ]
+}
