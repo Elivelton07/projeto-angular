@@ -1,0 +1,11 @@
+footer {
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+    text-align: center;
+    background-color: rgb(51, 10, 10);
+    
+  }
+span{
+    color: white;
+}

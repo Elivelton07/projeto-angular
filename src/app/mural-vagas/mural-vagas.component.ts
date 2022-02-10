@@ -23,7 +23,13 @@ export class MuralVagasComponent implements OnInit {
         retornaVaga => {
           this.vagas = retornaVaga.map(
             _item=> {
-              return new Vaga();
+              return new Vaga(
+                _item.id,
+                _item.nome,
+                _item.foto,
+                _item.descricao,
+                _item.salario
+              );
             }
           )
         }

@@ -1,28 +1,32 @@
 {
-    "vagas": [
+  "vagas": [
     {
-        "id": 1,
-        "nome": "Desenvolver Front end",
-        "foto": "foto 1.jpg",
-        "descricao": "Trabalhar com HTML e CSS",
-        "salario": 5000
+      "id": 1,
+      "nome": "Desenvolver Front end",
+      "foto": "foto 1.jpg",
+      "descricao": "Trabalhar com HTML e CSS",
+      "salario": 5000
     },
-
     {
-        "id": 2,
-        "nome": "Desenvolver Back end",
-        "foto": "foto 2.jpg",
-        "descricao": "Spring Boot",
-        "salario": 7000
+      "id": 2,
+      "nome": "Desenvolver Back end",
+      "foto": "foto 2.jpg",
+      "descricao": "Spring Boot",
+      "salario": 7000
     },
-
     {
-        "id": 3,
-        "nome": "Desenvolver Full stack",
-        "foto": "foto 3.jpg",
-        "descricao": "Trabalhar Angular e Spring",
-        "salario": 10000
+      "id": 3,
+      "nome": "Desenvolverdor Fullstack",
+      "foto": "foto 3.jpg",
+      "descricao": "HTML, CSS, Java Script, Java, Springboot e Angular",
+      "salario": "15000"
+    },
+    {
+      "id": "4",
+      "nome": "Gerente de Projeto",
+      "foto": "foto 4.jpg",
+      "descricao": "Gerenciar os projetos da equipe",
+      "salario": "25000"
     }
-
-    ]
+  ]
 }
