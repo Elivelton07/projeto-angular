@@ -1,0 +1,12 @@
+.nav{
+    background-color: rgb(51, 10, 10);
+    height: 65px;
+}
+a{
+    color: white;
+    margin-top: 10px;
+}
+a:hover{
+    color: brown;
+    text-decoration: none;
+}

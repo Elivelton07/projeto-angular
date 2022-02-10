@@ -1,3 +1,37 @@
-*{
-    background-color: brown;
-}
+form {
+    position:relative;
+    left: 31%;
+    top:3em;
+    width: 500px;
+    height: 300px;
+    background-color: rgba(128, 128, 128, 0.589);
+    border-radius: 10px;
+    text-align: center;
+    
+  }
+  label{
+      margin: 8px;
+      padding-top: 5px;
+      color: white;
+  }
+  input{
+      border-radius: 5px;
+      width: 350px;
+  }
+  button{
+      margin: 10px;
+      border-radius: 5px;
+      background-color: white;
+      color: brown;
+  }
+  button:hover{
+      background-color: brown;
+      color: white;
+  }
+  h2{
+      color: white;
+      margin: 25px;
+      text-align: center;
+      
+  }
+
